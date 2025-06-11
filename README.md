@@ -1,4 +1,4 @@
-# Ehsan Samy Mohamed 👨🏻‍💻  
+# Ehsan Samy Mohamed 👩🏻‍💻
 Backend Developer | Real-Time Systems | CS Student @ Helwan University
 
 I'm a Computer Science student specializing in backend development and real-time web systems. I enjoy building scalable APIs, working with distributed systems, and solving complex backend challenges using clean architecture and efficient databases.
